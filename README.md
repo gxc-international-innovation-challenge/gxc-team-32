@@ -1,2 +1,6 @@
 # Repository Team 32
-gxc-team-32 created by GitHub Classroom
+This is the Repository for the GXC Innovation Challenge of Team-32
+
+Challenge 3: Munich City District Youth Association The future of youth participation: how to empower the youngsters?
+
+Team Members: Hawwa Bakht-Noor; Lukas Zwicklhuber; Mantas Gedrimas; Nele Tüxen
