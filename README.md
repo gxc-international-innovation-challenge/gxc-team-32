@@ -5,6 +5,8 @@ Challenge 3: Munich City District Youth Association The future of youth particip
 
 Team Members: Hawwa Bakht-Noor; Lukas Zwicklhuber; Nele Tüxen
 
+**About the Project**
+
 ![](pitch.PNG)
 
 https://github.com/gxc-international-innovation-challenge/gxc-team-32/wiki
