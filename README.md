@@ -5,7 +5,7 @@ Challenge 3: Munich City District Youth Association The future of youth particip
 
 Team Members: Hawwa Bakht-Noor; Lukas Zwicklhuber; Nele Tüxen
 
-**About the Project**
+## About the Project
 
 ![](pitch.PNG)
 
